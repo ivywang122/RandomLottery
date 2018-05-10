@@ -8,3 +8,13 @@ C:\projects\csharp-projects\PracticeProjects\RandomLottery\obj\Debug\RandomLotte
 C:\projects\csharp-projects\PracticeProjects\RandomLottery\obj\Debug\RandomLottery.exe
 C:\projects\csharp-projects\PracticeProjects\RandomLottery\obj\Debug\RandomLottery.pdb
 C:\projects\csharp-projects\PracticeProjects\RandomLottery\obj\Debug\RandomLottery.MainWindow.resources
+D:\projects\csharp\SideProjects\RandomLottery\bin\Debug\RandomLottery.exe.config
+D:\projects\csharp\SideProjects\RandomLottery\bin\Debug\RandomLottery.exe
+D:\projects\csharp\SideProjects\RandomLottery\bin\Debug\RandomLottery.pdb
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.csprojResolveAssemblyReference.cache
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.MainWindow.resources
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.Properties.Resources.resources
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.csproj.GenerateResource.cache
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.csproj.CoreCompileInputs.cache
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.exe
+D:\projects\csharp\SideProjects\RandomLottery\obj\Debug\RandomLottery.pdb
