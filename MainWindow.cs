@@ -25,7 +25,7 @@ namespace RandomLottery
 			{
 				nums[i] = rnd.Next(0, 6);
 
-				// 檢查下一個數字是否重複
+				// 檢查下一個數字是否重複?
 				for (int j = 0; j < i;)
 				{
 					if (nums[i] == nums[j])
